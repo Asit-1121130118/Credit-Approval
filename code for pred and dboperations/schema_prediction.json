@@ -1,0 +1,25 @@
+{     "SampleFileName":"application_01012000_120000.csv",
+      "LengthOfDateStampInFile":8,
+      "LengthOfTimeStampInFile":6,
+      "NumberOfColumns":18,
+      "ColName": {
+			"ID": "integer",
+            "CODE_GENDER": "varchar",
+            "FLAG_OWN_CAR": "varchar",
+            "FLAG_OWN_REALTY": "varchar",
+            "CNT_CHILDREN": "integer",
+            "AMT_INCOME_TOTAL": "float",
+            "NAME_INCOME_TYPE": "varchar",
+            "NAME_EDUCATION_TYPE": "varchar",
+            "NAME_FAMILY_STATUS": "varchar",
+            "NAME_HOUSING_TYPE": "varchar",
+            "DAYS_BIRTH": "integer",
+            "DAYS_EMPLOYED": "integer",
+            "FLAG_MOBIL": "integer",
+            "FLAG_WORK_PHONE": "integer",
+            "FLAG_PHONE": "integer",
+            "FLAG_EMAIL": "integer",
+            "OCCUPATION_TYPE": "varchar",
+            "CNT_FAM_MEMBERS": "integer"
+      }
+}
