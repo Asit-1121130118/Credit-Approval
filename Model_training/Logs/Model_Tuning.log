@@ -1,0 +1,258 @@
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Xgboost is the suitable model
+INFO:tuner:Params choose are (learning_rate=1, max_depth=5, n_estimators=50) 
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Xgboost is the suitable model
+INFO:tuner:Params choose are (learning_rate=1, max_depth=5, n_estimators=50) 
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Xgboost is the suitable model
+INFO:tuner:Params choose are (learning_rate=1, max_depth=5, n_estimators=50) 
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Xgboost is the suitable model
+INFO:tuner:Params choose are (learning_rate=1, max_depth=5, n_estimators=50) 
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Xgboost is the suitable model
+INFO:tuner:Params choose are (learning_rate=1, max_depth=5, n_estimators=50) 
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Xgboost is the suitable model
+INFO:tuner:Params choose are (learning_rate=1, max_depth=5, n_estimators=50) 
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Xgboost is the suitable model
+INFO:tuner:Params choose are (learning_rate=1, max_depth=5, n_estimators=50) 
+INFO:tuner:Entered the constructor of the class Model_finder
+INFO:tuner:Finding the best parameters for Xgboost
+INFO:tuner:Successfully fitted a random xgboost classifier
+INFO:tuner:Finding the best model
+INFO:tuner:Finding the best parameters for Random forest
+INFO:tuner:Successfully fitted a random forest classifier
+INFO:tuner:Random Forest is the suitable model

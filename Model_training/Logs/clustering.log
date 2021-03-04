@@ -1,0 +1,230 @@
+INFO:__main__:Entered the constructor of clustering
+INFO:__main__:Entered the elbow_plot method of the KMeansClustering class
+INFO:__main__:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:__main__:Entered the create_clusters method of the KMeansClustering class
+INFO:__main__:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:__main__:Entered the constructor of clustering
+INFO:__main__:Entered the elbow_plot method of the KMeansClustering class
+INFO:__main__:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:__main__:Entered the create_clusters method of the KMeansClustering class
+INFO:__main__:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:__main__:Entered the constructor of clustering
+INFO:__main__:Entered the elbow_plot method of the KMeansClustering class
+INFO:__main__:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:__main__:Entered the create_clusters method of the KMeansClustering class
+INFO:__main__:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:__main__:Entered the constructor of clustering
+INFO:__main__:Entered the elbow_plot method of the KMeansClustering class
+INFO:__main__:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:__main__:Entered the create_clusters method of the KMeansClustering class
+INFO:__main__:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+INFO:clustering:Entered the constructor of clustering
+INFO:clustering:Entered the elbow_plot method of the KMeansClustering class
+INFO:clustering:The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+INFO:clustering:Entered the create_clusters method of the KMeansClustering class
+INFO:clustering:succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
