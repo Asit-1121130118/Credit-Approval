@@ -1,0 +1,3 @@
+INFO:data_loader_prediction:Inside the DataGetter class constructor
+INFO:data_loader_prediction:Entered the get_data method of the Data_Getter class
+INFO:data_loader_prediction:Data Load Successful.Exited the get_data method of the Data_Getter class

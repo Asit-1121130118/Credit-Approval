@@ -1,0 +1,6 @@
+INFO:predictFromModel:Entered the constructor of Prediction_Model Class
+INFO:predictFromModel:Entered the predictionFrom_Model function
+INFO:Prediction_Raw_Data_Validation.predictionDataValidation:Entered the constructor of the class Prediction_Data_validation
+INFO:Prediction_Raw_Data_Validation.predictionDataValidation:Start of deleting prediction files
+INFO:predictFromModel:Entered the Main Prediction function
+INFO:predictFromModel:Successfully loaded the data from data_loader.py
